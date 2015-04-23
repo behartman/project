@@ -1,11 +1,11 @@
 body
 {
-  background-color: #D1D1D1;
+  background-color: #D1EAFF; /* D1D1D1 */
 }
 div
 {
-  border: 2px solid #58DB65;
-  background-color: #BDF0C2;
+  border: 2px solid #9E79FF; /* 58DB65 */
+  background-color: #DFD3FF; /* BDF0C2 */
   margin: 10px;
   padding: 5px 10px 15px 10px;
 }
@@ -23,9 +23,9 @@ label
 }
 button
 {
-  border: 4px solid #58DB65;
+  border: 4px solid #8050FD; /* 58DB65 */
   border-radius: 10px;
-  background-color: #5FF56E;
+  background-color: #BBA1FF; /* 5FF56E */
   font-weight: bold;
   font-family: serif;
   font-size: 18px;
